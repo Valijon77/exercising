@@ -1,5 +1,5 @@
 def foo(x, y):
-    return x + y
+    pass
 
 
 print("bye")
